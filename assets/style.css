@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+   }
+   
+   header,
+   footer {
+    width: 100%;
+    height: 120px;
+    background-color: lavender;
+    color: black;
+    font-family: Tahoma;
+   }
+   
+   h1,
+   h2 {
+    text-align: center;
+    font-family: Tahoma;
+   }
+   
+   img {
+    display: block;
+    height: 50px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+   }
+   
+   ul {
+    padding-left: 40px;
+    font-size: 20px;
+   }
+   
+   p {
+    text-align: center;
+    font-size: 30px;
+    font-family: Tahoma;
+   }
+
+   .card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid lavender;
+    box-shadow: 5px 10px #888888;
+    font-family: 'Lucida Sans';
+  }
